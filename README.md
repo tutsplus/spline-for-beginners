@@ -1,5 +1,5 @@
 # Spline for Beginners | FREE COURSE
-source files for the tutsplus course “spline for beginners”
+Source files for the tutsplus course “spline for beginners”
 
 https://www.youtube.com/watch?v=HKk4oLIzhhM
 
